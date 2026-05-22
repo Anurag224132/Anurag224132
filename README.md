@@ -167,4 +167,9 @@ Spring Boot • Redis • PostgreSQL
 
 ### Show some ❤️ by starring repositories
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Anurag224132/Anurag224132/blob/output/github-contribution-grid-snake.svg)
+
+
 </div>
