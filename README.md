@@ -1,100 +1,179 @@
-# Hi 👋 I'm Anurag Pandey
+<h1 align="center">Hi 👋, I'm Anurag Pandey</h1>
 
-### Backend Developer | Java | Spring Boot | Microservices | AI Systems
+<h3 align="center">
+Backend Developer • Java • Spring Boot • Microservices • AI Systems
+</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;650%2B+LeetCode+Problems+Solved;Building+Scalable+Systems;AI+Powered+Applications)
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;650%2B+DSA+Problems+Solved;Building+Scalable+AI+Systems;Passionate+About+System+Design"/>
 
-## 💫 About Me
+</p>
 
-- 🎓 Final Year B.Tech CSE Student
-- 🏆 Dean's Top 10% @ LPU
-- 💼 Backend Developer Intern @ FloBiz
-- 🔭 Currently building **SkillSpark — AI Recruitment Platform**
-- 🌱 Learning **System Design, Distributed Systems**
-- 💻 Backend Focus: **Spring Boot, Microservices, PostgreSQL, Redis**
-- 🧠 Solved **650+ DSA problems**
-- ⚡ Passionate about building scalable backend systems
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/anurag224132) •
-[GitHub](https://github.com/Anurag224132) •
-[Email](mailto:1pandeyanurag1@gmail.com)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anurag224132&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Anurag224132?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Anurag224132?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Final Year B.Tech CSE Student @ LPU  
+
+🏆 Dean's Top 10%  
+
+💼 Backend Developer Intern @ FloBiz  
+
+🔭 Building **SkillSpark — AI Powered Recruitment Platform**
+
+🌱 Currently learning:
+
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Scalable Microservices
+
+💬 Ask me about:
+
+- Spring Boot
+- Java
+- Redis
+- REST APIs
+- PostgreSQL
+- Backend Architecture
+
+⚡ Fun fact:
+
+I enjoy reducing API latency and optimizing systems.
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:1pandeyanurag1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/anurag224132">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Anurag224132">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![SQL](https://skillicons.dev/icons?i=mysql)
+<p align="center">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
 
-![Spring](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+</p>
 
-### Database
+### Backend Development
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+
+</p>
 
 ### DevOps & Tools
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![Maven](https://skillicons.dev/icons?i=maven)
-![Postman](https://skillicons.dev/icons?i=postman)
+<p align="center">
 
-### ML / AI
+<img src="https://skillicons.dev/icons?i=docker,git,maven,postman"/>
 
-spaCy • TF-IDF • Flask • Recommendation Systems
+</p>
 
----
+### AI / ML
 
-## 🚀 Featured Projects
+<p align="center">
 
-### SkillSpark — AI Recruitment Platform
+spaCy • Flask • TF-IDF • Recommendation Systems
 
-✅ 40+ REST APIs  
-✅ JWT Authentication  
-✅ Redis Session Management  
-✅ Resume Parsing  
-✅ AI Job Matching  
-✅ Grafana Monitoring  
-✅ Recruiter Dashboard  
-✅ Flask ML Microservice  
-
-Tech Stack:
-
-`Spring Boot` `React` `Redis` `PostgreSQL` `Flask` `Docker`
+</p>
 
 ---
 
-### Currency Wallet System
+# 🚀 Featured Projects
 
-✅ Real-time currency conversion  
-✅ Redis caching  
-✅ TOTP-based 2FA  
-✅ P2P transfers  
-✅ Audit logs  
+## 💼 SkillSpark — AI Recruitment Platform
 
-Tech Stack:
+✨ Features
 
-`Spring Boot` `PostgreSQL` `Redis`
+✔ 40+ REST APIs
+
+✔ JWT Authentication
+
+✔ Redis Session Management
+
+✔ Resume Parsing
+
+✔ AI Job Matching
+
+✔ Grafana Monitoring
+
+✔ Spring Cloud Gateway
+
+✔ Circuit Breaker
+
+**Tech Stack**
+
+`Spring Boot`
+`React`
+`PostgreSQL`
+`Redis`
+`Docker`
+`Flask`
 
 ---
 
-## 📊 GitHub Stats
+## 💰 Currency Wallet System
+
+✨ Features
+
+✔ P2P Transfers
+
+✔ Real-time Currency Conversion
+
+✔ Redis Caching
+
+✔ TOTP Authentication
+
+✔ Audit Logs
+
+**Tech Stack**
+
+`Spring Boot`
+`Redis`
+`PostgreSQL`
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -104,36 +183,40 @@ Tech Stack:
 
 </p>
 
----
+<p align="center">
 
-## 📈 Activity Graph
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag224132&layout=compact&theme=tokyonight"/>
 
-[![Anurag Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag224132&theme=tokyo-night)]()
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Anurag224132&theme=tokyonight)
+</p>
 
 ---
 
-## 📚 LeetCode Stats
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag224132&theme=tokyo-night)]()
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Anurag224132&theme=tokyonight&margin-w=15)
+
+---
+
+# 📚 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anurag224132?theme=dark&font=Nunito)
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Anurag224132)
-
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Anurag224132/Anurag224132/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### Show some ❤️ by starring repositories
+<h3 align="center">
+
+Show some ❤️ by starring repositories ⭐
+
+</h3>
