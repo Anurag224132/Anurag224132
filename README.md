@@ -1,97 +1,73 @@
-</a>
+<div align="center">
 
-<a href="https://github.com/Anurag224132">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+# Hi 👋 I'm Anurag Pandey
 
-<a href="https://leetcode.com/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
-</a>
+### Backend Developer | Java | Spring Boot | Microservices | AI Systems
 
-</p>
+Final Year B.Tech CSE Student  
+Dean's Top 10% @ LPU  
+Backend Developer Intern @ FloBiz
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;650%2B+LeetCode+Problems+Solved;Building+Scalable+Systems" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🔭 Currently building: **SkillSpark – AI Recruitment Platform**
+- 🌱 Learning: **System Design, Distributed Systems**
+- 💻 Backend: **Spring Boot, Microservices, PostgreSQL, Redis**
+- 🧠 Solved **650+ DSA problems**
+- ⚡ Interested in scalable backend systems
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/anurag224132) •
+[GitHub](https://github.com/Anurag224132) •
+[Email](mailto:1pandeyanurag1@gmail.com)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-</p>
-
-### Dev Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,maven,postman"/>
-</p>
-
-### ML / AI
-
-spaCy • TF-IDF • Flask • Recommendation Systems
+![My Skills](https://skillicons.dev/icons?i=java,python,javascript,spring,nodejs,express,postgres,mongodb,redis,docker,git,maven)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### SkillSpark — AI Recruitment Platform
-
-🔥 Features
-
 - 40+ REST APIs
 - JWT Authentication
 - Redis Session Management
 - Resume Parsing
 - AI Job Matching
 - Grafana Monitoring
-- Circuit Breakers
-
-Tech Stack:
-
-`Spring Boot` `React` `PostgreSQL`
-`Redis` `Flask` `Docker`
-
----
 
 ### Currency Wallet System
-
-💸 Features
-
 - Real-time currency conversion
-- TOTP-based 2FA
 - Redis caching
-- P2P Transfers
-- Audit logs
+- TOTP 2FA
+- P2P transfers
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anurag224132&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag224132&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anurag224132&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag224132&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag224132&theme=tokyo-night)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag224132&theme=tokyo-night)]()
 
 ---
 
@@ -101,26 +77,6 @@ Tech Stack:
 
 ---
 
-## 📚 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Anurag224132?theme=dark&font=Nunito)
-
----
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Anurag224132)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Anurag224132/Anurag224132/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-
-### Show some ❤️ by starring repositories
-
-</div>
