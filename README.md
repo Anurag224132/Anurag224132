@@ -149,12 +149,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anurag224132&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Anurag's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag224132&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anurag224132&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="Anurag's GitHub Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Anurag224132&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag224132&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag224132&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
